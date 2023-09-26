@@ -2,6 +2,10 @@
 
 Perfume Store is an e-commerce web application for buying and exploring a wide range of perfumes. Our platform offers a user-friendly interface and diverse perfumes to suit your preferences. Whether you're a perfume enthusiast or looking for the perfect gift, Perfume Store has you covered.
 
+## Live Demo
+
+[click here](https://parfum-palm-store.vercel.app/)
+
 ## Figma Prototype
 
 We started this project with a Figma prototype designed by [Amina](https://github.com/AminaZahra). You can view the Figma prototype [here](https://www.figma.com/proto/Oo1q1SJ2WafQdNrFfh3h7p/Untitled?page-id=0%3A1&type=design&node-id=0-79&viewport=503%2C3868%2C0.61&t=hfDJOAaQq1otWgIV-1&scaling=min-zoom).
