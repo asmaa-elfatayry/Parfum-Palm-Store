@@ -1,10 +1,10 @@
 # Perfume Palm Store
 
-Perfume Store is an e-commerce web application for buying and exploring a wide range of perfumes. Our platform offers a user-friendly interface and a diverse collection of perfumes to suit your preferences. Whether you're a perfume enthusiast or looking for the perfect gift, Perfume Store has you covered.
+Perfume Store is an e-commerce web application for buying and exploring a wide range of perfumes. Our platform offers a user-friendly interface and diverse perfumes to suit your preferences. Whether you're a perfume enthusiast or looking for the perfect gift, Perfume Store has you covered.
 
 ## Figma Prototype
 
-We started this project with a Figma prototype designed by [Amina]. You can view the Figma prototype [here](https://www.figma.com/proto/Oo1q1SJ2WafQdNrFfh3h7p/Untitled?page-id=0%3A1&type=design&node-id=0-79&viewport=503%2C3868%2C0.61&t=hfDJOAaQq1otWgIV-1&scaling=min-zoom).
+We started this project with a Figma prototype designed by [Amina](https://github.com/AminaZahra). You can view the Figma prototype [here](https://www.figma.com/proto/Oo1q1SJ2WafQdNrFfh3h7p/Untitled?page-id=0%3A1&type=design&node-id=0-79&viewport=503%2C3868%2C0.61&t=hfDJOAaQq1otWgIV-1&scaling=min-zoom).
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ We started this project with a Figma prototype designed by [Amina]. You can view
 
 - display Arabic or English language
 - View detailed product descriptions.
-- Responsive design for a seamless experience on mobile screen.
+- Responsive design for a seamless experience on a mobile screen.
 
 ## Getting Started
 
@@ -91,7 +91,7 @@ We welcome contributions from the community. If you would like to contribute to 
 
 ## Credits
 
-- **UI/UX Design**: [Amina Zahra](link-to-friend's-portfolio)
+- **UI/UX Design**: [Amina Zahra]((https://github.com/AminaZahra))
 - **Front End Developer**: Asmaa Elfatayry
 
 ## License
